@@ -78,7 +78,5 @@ while c==0:
     elif ch==5:
         print("Code execution ends here.")
         c=1
-    else:
-        print("Invalid choice.")
-        c=0
 #changed
+#Name : Tirthesh
